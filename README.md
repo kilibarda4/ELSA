@@ -2,6 +2,7 @@
 Graphical User Interface for a PC and Laptops vendor.
 You have the ability to add new customers, options(parts) to the store,
 as well as build computers, create orders, save/load the Store state.
+I used the SWING library for the UI design and followed the Scrum Agile method for the development cycle.
 
 ## What I Learned
 - Core Java Concepts (Polymorphism, Encapsulation, Abstraction, Inheritance)  
